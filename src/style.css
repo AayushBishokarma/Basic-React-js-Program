@@ -1,0 +1,17 @@
+
+.button{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 2em;
+
+}
+div{
+    text-align: center;
+}
+
+p{
+    font-size: 10em;
+    font-weight: bolder;
+}
